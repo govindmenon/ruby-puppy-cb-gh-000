@@ -1,3 +1,5 @@
+#rspec
+
 require "spec_helper"
 
 describe "Dog" do 
